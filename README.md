@@ -1,5 +1,6 @@
 # Project description
 Dia Landing Page is a training project. This page displays basic information, a navigation block, a block with customer reviews, contacts and a form for sending a message.
+This page is also adapted to any screen size. So it will be convenient to watch both on big screens and on mobile devices.
 
 # The technologies used in the project
 - HTML/CSS
